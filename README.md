@@ -17,7 +17,7 @@ Sample website with plenty of files for demos
 A simple project to use and abuse, not for deployment anywhere
 
 ## How To Contribute
-Please do not do not contribute.  It is a waste of your time.
+Please do not do not contribute.  It is a waste of your time. Unless you really want to.
 
 ### Copyright
-Copyright 2018 SSC
+Copyright 2018 SSC System science Corporation
